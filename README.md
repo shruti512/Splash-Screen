@@ -1,1 +1,1 @@
-# Splash-Scrren
+# Splash-Screen
